@@ -1,10 +1,25 @@
 # big-data-primer
 
+
+
 ## Introduction 
 
-Learn about everything big data. 
+Learn about everything big data
+
+## Big Data Dimensions
+
+- Collection
+- Ingestion
+- ETL
+- Storage
+- Insights
 
 ## Collection
+
+### Tools
+FluentD
+Logstash
+
 
 ## CDC
 
