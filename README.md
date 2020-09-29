@@ -166,3 +166,9 @@ Learn about everything big data
 - https://github.com/cloud-custodian/cloud-custodian
 - https://github.com/Teevity/ice
 
+
+## Kappa Architecture
+- https://milinda.pathirage.org/kappa-architecture.com/
+- https://eng.uber.com/kappa-architecture-data-stream-processing/
+- https://www.talend.com/blog/2017/08/28/lambda-kappa-real-time-big-data-architectures/
+
