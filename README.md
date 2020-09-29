@@ -1,6 +1,9 @@
 # big-data-primer
- 
- 
+
+## Introduction 
+
+Learn about everything big data. 
+
 ## Collection
 
 ## CDC
