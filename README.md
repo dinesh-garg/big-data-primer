@@ -159,12 +159,14 @@ Learn about everything big data
 
 ### Tools
 
+- https://github.com/cloud-custodian/cloud-custodian
+- https://github.com/Teevity/ice
+
 ### Further reads
 
 - https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032
 - https://www.youtube.com/watch?v=ChupgIbZr5Q&ab_channel=AWSEvents
-- https://github.com/cloud-custodian/cloud-custodian
-- https://github.com/Teevity/ice
+
 
 
 ## Kappa Architecture
