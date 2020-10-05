@@ -20,7 +20,7 @@ Learn about everything big data
 ### Tools
 - FluentD
 - Logstash
-
+- Scoop
 
 ## CDC
 
