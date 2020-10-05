@@ -1,6 +1,6 @@
 # big-data-primer
 
-
+THIS IS VERY INITIAL DRAFT. ITS A WORK IN PROGRESS.
 
 ## Introduction 
 
@@ -23,7 +23,10 @@ Learn about everything big data
 
 ## CDC
 
+Change Data Capture
+
 ### Features
+- Stream changes from database in a reliable, scalable manner
 
 
 ### Tools
