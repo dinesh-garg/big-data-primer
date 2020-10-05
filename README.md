@@ -122,7 +122,6 @@ Learn about everything big data
 - https://medium.com/criteo-labs/datadoc-the-criteo-data-observability-platform-2cd826a9a1afAirBnb’s Dataportal
 - https://cloud.google.com/data-catalog
 
-## Data Quality
 
 ## Text Search 
 
