@@ -1,9 +1,10 @@
 # big-data-primer
 
 
-<div class="text-white bg-red mb-2">
-  THIS IS VERY INITIAL DRAFT. ITS A WORK IN PROGRESS.
-</div>
+<span style=“color:green;”> text goes here</span>
+
+##THIS IS VERY INITIAL DRAFT. ITS A WORK IN PROGRESS.
+
 
 
 
