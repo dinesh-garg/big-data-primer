@@ -1,6 +1,6 @@
 # big-data-primer
 
-##THIS IS VERY INITIAL DRAFT. ITS A WORK IN PROGRESS.
+##THIS IS VERY INITIAL DRAFT. JUST THE SKELETON. ITS A WORK IN PROGRESS.
 
 
 ## Introduction 
@@ -175,8 +175,10 @@ Change Data Capture
 
 
 ## Lamba Architecture
+Query batch data + Query Real time data => Let the application join the data
 
 ## Kappa Architecture
+Everything is a stream. Batch data is converted into stream and joined with Real time. Application is only written once to query the stream data.
 - https://milinda.pathirage.org/kappa-architecture.com/
 - https://eng.uber.com/kappa-architecture-data-stream-processing/
 - https://www.talend.com/blog/2017/08/28/lambda-kappa-real-time-big-data-architectures/
