@@ -1,11 +1,6 @@
 # big-data-primer
 
-
-<span style=“color:green;”> text goes here</span>
-
 ##THIS IS VERY INITIAL DRAFT. ITS A WORK IN PROGRESS.
-
-
 
 
 ## Introduction 
@@ -179,9 +174,19 @@ Change Data Capture
 - https://www.youtube.com/watch?v=ChupgIbZr5Q&ab_channel=AWSEvents
 
 
+## Lamba Architecture
 
 ## Kappa Architecture
 - https://milinda.pathirage.org/kappa-architecture.com/
 - https://eng.uber.com/kappa-architecture-data-stream-processing/
 - https://www.talend.com/blog/2017/08/28/lambda-kappa-real-time-big-data-architectures/
 
+
+## Wide column stores
+- Hbase 
+- Dynamodb
+- Cassandra
+
+## Graph Databasees
+- https://neo4j.com/
+- https://janusgraph.org/
