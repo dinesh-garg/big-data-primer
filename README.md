@@ -93,7 +93,10 @@ Change Data Capture
 - Kafka Streams
 - Spark Streaming
 
-## Workflow, Pipeline and Scheduling
+## Orchestration
+- Workflows
+- Pipeline
+- Scheduling
 
 ### Tools
 
