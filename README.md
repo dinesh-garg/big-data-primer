@@ -1,7 +1,8 @@
 # big-data-primer
 
 ```diff
-@@ THIS IS VERY INITIAL DRAFT. ITS A WORK IN PROGRESS.
+- THIS IS VERY INITIAL DRAFT. ITS A WORK IN PROGRESS.
+```diff
 
 ## Introduction 
 
