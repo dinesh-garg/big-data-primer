@@ -190,3 +190,9 @@ Change Data Capture
 ## Graph Databasees
 - https://neo4j.com/
 - https://janusgraph.org/
+
+## Consensus algorithems and tools
+- ZAB, Paxos and Raft 
+- ZK (ZAB)
+- etcd (Raft)
+- Chubby
