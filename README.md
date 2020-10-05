@@ -1,8 +1,11 @@
 # big-data-primer
 
-```diff
-- THIS IS VERY INITIAL DRAFT. ITS A WORK IN PROGRESS.
-```diff
+
+<div class="text-white bg-red mb-2">
+  THIS IS VERY INITIAL DRAFT. ITS A WORK IN PROGRESS.
+</div>
+
+
 
 ## Introduction 
 
