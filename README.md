@@ -25,10 +25,6 @@ Learn about everything big data
 
 ### Features
 
-- Verifying data type matching
-- cardinality of source and target
-- Value distributions of coursce and target
-- profiling the statistics against historic trends to detect anomalies and potential quality issues
 
 ### Tools
 
@@ -42,6 +38,13 @@ Learn about everything big data
 
 
 ## Data Quality
+
+### 
+
+- Verify data type matching
+- cardinality of source and target
+- Value distributions of source and target
+- profiling the statistics against historic trends to detect anomalies and potential quality issues
 
 ### Tools
 
