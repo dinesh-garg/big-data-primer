@@ -60,7 +60,7 @@ Change Data Capture
 
 - https://dzone.com/articles/java-amp-apache-spark-for-data-quality-amp-validat
 - https://quickbooks-engineering.intuit.com/taming-data-quality-with-circuit-breakers-dbe550d3ca78
-- https://www.youtube.com/watch?v=fXHdeBnpXrg
+- Data Quality at scale at Netflix - https://www.youtube.com/watch?v=fXHdeBnpXrg
 - https://medium.com/datamindedbe/data-quality-libraries-the-right-fit-a6564641dfad
 - https://medium.com/disney-streaming/testing-asynchronous-pipelines-with-fs2-and-weaver-test-f0ffd37676d
 - https://aws.amazon.com/blogs/big-data/build-a-distributed-big-data-reconciliation-engine-using-amazon-emr-and-amazon-athena/
