@@ -61,11 +61,19 @@ Change Data Capture
 
 - Kafka
 
-## Stream Processing
+## Compute
 
+### Batch processing
+- Spark
+- Hive
+
+### Stream Processing
 - Flink
 - Kafka Streams
 - Spark Streaming
+
+### Analytics
+- Presto
 
 ## Orchestration
 - Workflows
