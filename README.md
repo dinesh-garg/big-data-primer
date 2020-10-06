@@ -41,32 +41,6 @@ Change Data Capture
 - https://eng.uber.com/dbevents-ingestion-framework/
 
 
-## Data Quality
-
-### 
-
-- Verify data type matching
-- cardinality of source and target
-- Value distributions of source and target
-- profiling the statistics against historic trends to detect anomalies and potential quality issues
-
-### Tools
-
-- https://griffin.apache.org/
-- https://github.com/awslabs/deequ (Spark Scala — from AWS)
-- https://github.com/ronald-smith-angel/owl-data-sanitizer (Pyspark)
-
-### Further reads
-
-- https://dzone.com/articles/java-amp-apache-spark-for-data-quality-amp-validat
-- https://quickbooks-engineering.intuit.com/taming-data-quality-with-circuit-breakers-dbe550d3ca78
-- Data Quality at scale at Netflix - https://www.youtube.com/watch?v=fXHdeBnpXrg
-- https://medium.com/datamindedbe/data-quality-libraries-the-right-fit-a6564641dfad
-- https://medium.com/disney-streaming/testing-asynchronous-pipelines-with-fs2-and-weaver-test-f0ffd37676d
-- https://aws.amazon.com/blogs/big-data/build-a-distributed-big-data-reconciliation-engine-using-amazon-emr-and-amazon-athena/
-- https://eng.uber.com/monitoring-data-quality-at-scale/
-
-
 ## Data Lake (with upsert and delete support)
 - Data lifecycle management
 - Store clean data 
@@ -112,6 +86,33 @@ Change Data Capture
 
 - https://netflixtechblog.com/unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280
 - https://eng.uber.com/managing-data-workflows-at-scale/ 
+
+
+## Data Quality
+
+### 
+
+- Verify data type matching
+- cardinality of source and target
+- Value distributions of source and target
+- profiling the statistics against historic trends to detect anomalies and potential quality issues
+
+### Tools
+
+- https://griffin.apache.org/
+- https://github.com/awslabs/deequ (Spark Scala — from AWS)
+- https://github.com/ronald-smith-angel/owl-data-sanitizer (Pyspark)
+
+### Further reads
+
+- https://dzone.com/articles/java-amp-apache-spark-for-data-quality-amp-validat
+- https://quickbooks-engineering.intuit.com/taming-data-quality-with-circuit-breakers-dbe550d3ca78
+- Data Quality at scale at Netflix - https://www.youtube.com/watch?v=fXHdeBnpXrg
+- https://medium.com/datamindedbe/data-quality-libraries-the-right-fit-a6564641dfad
+- https://medium.com/disney-streaming/testing-asynchronous-pipelines-with-fs2-and-weaver-test-f0ffd37676d
+- https://aws.amazon.com/blogs/big-data/build-a-distributed-big-data-reconciliation-engine-using-amazon-emr-and-amazon-athena/
+- https://eng.uber.com/monitoring-data-quality-at-scale/
+
 
 ## Data Discovery and Search
 
