@@ -13,9 +13,7 @@ Learn about everything big data
 - Ingestion
 - Storage
 - ETL
-- Insights
--- Analytics
--- ML
+- Insights (Analytics, ML etc.)
 
 ## Collection
 
